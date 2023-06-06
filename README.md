@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Armando Castro</h1>
-<h3 align="center">I am a Front End Developer and Entrepreneur from Venezuela, Who loves to make Digital Products using different technologies according to the requirement and adapt them to guarantee a quality product that can scale successfully.</h3>
+<h3 align="center">I'm a Front End Developer and Entrepreneur from Venezuela, Who loves to make Digital Products using different technologies according to the requirement and adapt them to guarantee a quality product that can scale successfully.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arcav&label=Profile%20views&color=0e75b6&style=plastic" alt="arcav" /> </p>
 
