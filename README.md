@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arcav" alt="arcav" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [www.arcaverse.com](www.arcaverse.com)
+// - 👨‍💻 All of my projects are available at [www.arcaverse.com](www.arcaverse.com)
 
-- 📝 I regularly write articles on [www.arcaverse.com/blog](www.arcaverse.com/blog)
+// - 📝 I regularly write articles on [www.arcaverse.com/blog](www.arcaverse.com/blog)
 
 - 📫 How to reach me **armandojcastro84@gmail.com**
 
